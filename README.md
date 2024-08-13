@@ -1,4 +1,8 @@
-Курсовой проект заключается в анализе датасета с помощью обобщённой линейной модели и техники MCMC (Markov Chain Monte Carlo)
+#Байесовские методы
+
+Данный проект был выполнен мною в рамках семестрового курса «Байесовские методы» (3 курс ВМК МГУ, 2021г)
+
+Проект заключается в анализе датасета с помощью обобщенной линейной модели и техники MCMC (Markov Chain Monte Carlo). 
 
 **Data**: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=aug_train.csv
 
